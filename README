@@ -1,0 +1,7 @@
+start project run command : python manage.py runserver
+
+django default admin panel available on : http://localhost:8000/admin
+
+custom panel available on : http://localhost:4200
+
+admin credentials: {username: "admin" , password :"admin"}
